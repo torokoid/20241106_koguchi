@@ -156,7 +156,7 @@ p.note { display: none; }
 <h2><span class="yellow">豊田さんよりメッサーシュミットのジオラマいただきました！</span></h2>
 
 <a href="20241106_011.JPG" target="_blank"><img src="20241106_011.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241106_012.JPG" target="_blank"><img src="20241106_012.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241106_013.JPG" target="_blank"><img src="20241106_013.JPG" alt="サンプル画像" width="900" /></a>
 
 
 
