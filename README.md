@@ -122,13 +122,16 @@ p.note { display: none; }
 <!--流れ文字の挿入例-->
 <h1><span class="yellow"><marquee behavior="left">!!! 2024/11/6 、古口さんを囲む会で羽田卒業祝い !!!</marquee></span></h1>
 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+
 <!--上段にパンクズリストを入れる時の例-->
 <div style="background-color:rgb(255,255,255,0.5);">
 <p class="topicpath"><a href="https://torokoid.github.io/Mashiko_himawari_4/" target="_blank">2024年8月10日、益子ひまわり祭</a>><a href="https://torokoid.github.io/20240817_hagurosan/" target="_blank">2024年8月17日、羽黒山</a>><a href="https://torokoid.github.io/20240930_hagurosan/" target="_blank">2024年9月30日、羽黒山</a>><a href="https://torokoid.github.io/20241003_cluster/" target="_blank">10月3日、Cluster Accelerator</a>><a href="https://torokoid.github.io/20241004_fukuwauchi/" target="_blank">10月4日、羽田さんの悠々自適な１カ月を根掘り葉掘りする会@ふくわうち</a>><a>11月6日、古口さんを囲む会にて羽田卒業祝い</a></p></div>
 
-https://torokoid.github.io/20241004_fukuwauchi/
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+
 
 <!--ここから下が、本体部分-->
 
