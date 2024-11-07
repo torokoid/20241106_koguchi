@@ -119,10 +119,11 @@ p.note { display: none; }
 <p align="left"> <img src="QR_koguchi.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 
-<!--流れ文字の挿入例-->
-<h1><span class="yellow"><marquee behavior="left">!!! 2024/11/6 、古口さんを囲む会で羽田卒業祝い !!!</marquee></span></h1>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<!--流れ文字の挿入例-->
+<h1><span class="yellow"><marquee behavior="left">!!! 2024/11/6 、古口さんを囲む会で羽田卒業祝い !!!</marquee></span></h1>
 
 
 <!--上段にパンクズリストを入れる時の例-->
