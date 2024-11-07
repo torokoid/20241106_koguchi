@@ -126,20 +126,27 @@ p.note { display: none; }
 <div style="background-color:rgb(255,255,255,0.5);">
 <p class="topicpath"><a href="https://torokoid.github.io/Mashiko_himawari_4/" target="_blank">2024年8月10日、益子ひまわり祭</a>><a href="https://torokoid.github.io/20240817_hagurosan/" target="_blank">2024年8月17日、羽黒山</a>><a href="https://torokoid.github.io/20240930_hagurosan/" target="_blank">2024年9月30日、羽黒山</a>><a href="https://torokoid.github.io/20241003_cluster/" target="_blank">10月3日、Cluster Accelerator</a>><a>羽田さんの悠々自適な１カ月を根掘り葉掘りする会@ふくわうち</a></p></div>
 
+
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <!--ここから下が、本体部分-->
 
 <h2><span class="yellow">定年退職2ヶ月後の飲み会です！</span></h2>
 
-<a href="20241004_000.png" target="_blank"><img src="20241004_000.png" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">秋田くん主催で、宇都宮リコッタ ラティーノにて開催！</span></h2>
 
 
-
-
-
+<a href="20241106_001.JPG" target="_blank"><img src="20241106_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241106_002.JPG" target="_blank"><img src="20241106_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241106_003.JPG" target="_blank"><img src="20241106_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241106_004.JPG" target="_blank"><img src="20241106_004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241106_005.JPG" target="_blank"><img src="20241106_005.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241106_006.JPG" target="_blank"><img src="20241106_006.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241106_007.JPG" target="_blank"><img src="20241106_007.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241106_008.JPG" target="_blank"><img src="20241106_008.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241106_009.JPG" target="_blank"><img src="20241106_009.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241106_010.JPG" target="_blank"><img src="20241106_010.JPG" alt="サンプル画像" width="900" /></a>
 
 
 <!--
@@ -148,7 +155,8 @@ p.note { display: none; }
 
 <h2><span class="yellow">集合写真！</span></h2>
 
-<a href="20241004_034.JPG" target="_blank"><img src="20241004_034.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241106_011.JPG" target="_blank"><img src="20241106_011.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241106_012.JPG" target="_blank"><img src="20241106_012.JPG" alt="サンプル画像" width="900" /></a>
 
 
 
